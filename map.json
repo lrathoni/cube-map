@@ -44,6 +44,12 @@
          "id":6,
          "name":"kitchenfloor",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"kitchen"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":30,
